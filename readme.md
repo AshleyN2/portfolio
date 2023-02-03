@@ -17,7 +17,7 @@
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/users/AshleyN2/achievements/yolo" alt="AshleyN2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="AshleyN2" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
