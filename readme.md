@@ -49,7 +49,7 @@
 
 💬 I'm an expert on **software engineering principles.**
 
-📝 I regularly write articles on [https://medium.com/@ashnjoroge]
+📝 I regularly write articles on [Medium](https://medium.com/@ashnjoroge)
 
 <!--📄 Know about my experiences [through my CV](about/resume.md)-->
 
@@ -59,8 +59,7 @@
 
 ### My work
 
-🔭 I’m currently working on:  <br/>
-[Elewa](https://github.com/italanta/elewa) and [Kujali](https://github.com/italanta/kujali)
+🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa) and [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
