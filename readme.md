@@ -60,7 +60,7 @@
 ### My work
 
 🔭 I’m currently working on:  <br/>
- [Elewa](https://github.com/italanta/elewa) and [Kujali](https://github.com/italanta/kujali)
+[Elewa](https://github.com/italanta/elewa) and [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
