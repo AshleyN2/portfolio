@@ -28,7 +28,7 @@
   <a href="https://twitter.com/AshleyNjeri7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ashley Njoroge's Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/19693811/ash?tab=profile" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Ashley Njoroge's Stack Overflow" /></a> 
 
   <!-- Other badges -->
   <!-- 
