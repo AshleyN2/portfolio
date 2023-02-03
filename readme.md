@@ -55,13 +55,12 @@
 
 🌱 I’m currently developing **an open-source with iTalanta**.
 
-⚡ Fun fact? **Find at animal parks, petting a elephant or maybe a leopard:cat:**
+⚡ Fun fact? **Find at animal parks, petting a elephant or maybe a leopard!:cat:**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+🔭 I’m currently working on:  <br/>
+ [Elewa](https://github.com/italanta/elewa) and [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
@@ -70,7 +69,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **njrashley@gmail.com*
 
 <br />
 
