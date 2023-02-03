@@ -64,11 +64,11 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/AshleyN2](https://github.com/AshleyN2)
+👨‍💻 Review my projects at [My GitHub Profile](https://github.com/AshleyN2)
 
 ### Interested ?
 
-📫 Reach me on **njrashley@gmail.com*
+📫 Reach me on *njrashley@gmail.com*
 
 <br />
 
