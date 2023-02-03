@@ -55,7 +55,7 @@
 
 🌱 I’m currently developing **an open-source with iTalanta**.
 
-⚡ Fun fact? **Find at animal parks, petting a elephant or maybe a leopard!:cat:**
+⚡ Fun fact? **Find me at an animal park/conservation, petting an elephant:elephant: or maybe a leopard!:cat:**
 
 ### My work
 
@@ -64,7 +64,7 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [My GitHub Profile](https://github.com/AshleyN2)
+👨‍💻 Review my projects at [my GitHub profile](https://github.com/AshleyN2)
 
 ### Interested ?
 
@@ -80,7 +80,7 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Project Kujali </h2>
 
 <p align="right"><b>2023</b></p>
 
@@ -89,7 +89,7 @@
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+  I will be contributing to the development of the Kujali project.
 </p>
 <br/>
 
@@ -110,16 +110,16 @@
 
 #
 <!-- EXPERIENCE II -->
-<h2 align="left">Project Elewa</h2>
+<h2 align="left">Project Housy Properties</h2>
 
-<p align="right"><b>2022 - 2023</b></p>
+<p align="right"><b>Dec 2022 - Jan 2023</b></p>
 
 <p>
-  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
+  Housy Properties is an integrated website where property owners can showcase their different properties and allows tenants to raise their complaints which will be addressed by property owners more directly.
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+  I developed the part of the frontend of the website, applying essential UI/UX principles and deployed the backend of the project using Railway app.
 </p>
 <br/>
 
