@@ -16,8 +16,7 @@
 <h3 align="center">A student of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="AshleyN2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshleyN2" alt="AshleyN2" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
@@ -71,6 +70,7 @@
 📫 Reach me on *njrashley@gmail.com*
 
 <br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="AshleyN2" /></a> </p>
 
 <!-- 
   -- SECTION: MY EXPERIENCE
